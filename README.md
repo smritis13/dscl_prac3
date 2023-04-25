@@ -4,6 +4,7 @@ Pointers in C are used to store the address of variables or a memory location. T
 
 Syntax of C Pointers
 datatype * pointer_name;
+![image](https://user-images.githubusercontent.com/124857385/234308126-e23b1c81-c44a-4753-8274-78e5afc984c2.png)
 
 code-
 
