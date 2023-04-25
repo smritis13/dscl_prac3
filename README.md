@@ -6,7 +6,8 @@ Syntax of C Pointers
 datatype * pointer_name;
 
 code-
-		#include <stdio.h>
+
+                #include <stdio.h>
 		int main()
 		{
 			int x=2;
